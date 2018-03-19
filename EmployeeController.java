@@ -8,8 +8,10 @@ class EmployeeController{
        }
 
 
-    public String getEmployeeName(){
-           return mModel.getName();
+    public void getEmployeeName(){
+          
+           mView.showLoading();
+           mView.showEmployeeName( mModel.getName());
     }
 
    public void setEmployeeDetail(String name, String address, int salary){

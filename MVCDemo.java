@@ -4,7 +4,6 @@ class MVCDemo {
         EmployeeView v = new EmployeeView();
         EmployeeController controller = new EmployeeController(e, v);
         controller.setEmployeeDetail("Roshan", "Rijasldsd", 1111111);
-        v.showLoading();
-        v.showEmployeeName(controller.getEmployeeName());
+        controller.getEmployeeName();
     }
 }
