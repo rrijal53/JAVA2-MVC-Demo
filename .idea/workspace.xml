@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23fc7ed2-a796-401b-a821-835aac7dfd68" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MVCDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
