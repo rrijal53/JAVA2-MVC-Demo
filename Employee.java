@@ -9,6 +9,8 @@ class Employee {
         this.name = name;
         this.address = address;
         this.salary = salary;
+        
+        
     }
 
     public String getName() {
